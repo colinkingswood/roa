@@ -1,5 +1,5 @@
 """
-Ok, this should 
+Ok, this should be a front facing, subset of fields on teh LIMS relevant for collaborators to fill in samples
 """
 from django_roa import Model as RoaModel
 from django.db  import models 
